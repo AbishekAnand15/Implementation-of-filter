@@ -153,30 +153,31 @@ plt.show()
 ### 1. Smoothing Filters
 i) Using Averaging Filter
 
-![Screenshot 2024-03-19 143808](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/dfc719dc-f6e4-468b-8241-8c7a52f6ba2a)
+![Screenshot 2024-03-19 144107](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/071a94f7-1c98-4cc5-aa51-da1084d64274)
 
 ii) Using Weighted Averaging Filter
 
-![Screenshot 2024-03-19 143813](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/e45ed662-9fcf-46e3-b1a6-a457fa7081ff)
+![Screenshot 2024-03-19 144112](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/4ebdd6e6-e027-41da-a476-6ddf2cf3d51f)
 
 iii) Using Gaussian Filter
 
-![Screenshot 2024-03-19 143819](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/3d5a3140-195d-4e36-a545-468d395dd817)
+![Screenshot 2024-03-19 144136](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/59b7b210-b6d9-4631-9991-94c2c99e090b)
 
 iv) Using Median Filter
 
-![Screenshot 2024-03-19 143826](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/5c26fb2b-b070-48bc-ada9-4493cb1b85d5)
+![Screenshot 2024-03-19 144145](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/96f13828-7803-4313-ba03-a813f355ef9a)
 
 
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
 
-![Screenshot 2024-03-08 155955](https://github.com/vinodkumar-s/Implementation-of-filter/assets/113497226/70e772fa-a2c5-46e7-b87f-2c3f56becb55)
+![Screenshot 2024-03-19 144150](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/a148ef5c-5076-4c92-bf00-33f3dbece1d0)
 
 ii) Using Laplacian Operator
 
-![Screenshot 2024-03-08 160015](https://github.com/vinodkumar-s/Implementation-of-filter/assets/113497226/dcbc8a0c-ef89-44d2-837a-158b0e5ad966)
+
+![Uploading Screenshot 2024-03-19 144156.png…]()
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
