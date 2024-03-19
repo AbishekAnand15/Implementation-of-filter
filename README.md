@@ -37,7 +37,7 @@ i) Using Averaging Filter
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
-image1=cv2.imread("eiffle.jpg")
+image1=cv2.imread("nebula.jpg")
 image2=cv2.cvtColor(image1,cv2.COLOR_BGR2RGB)
 kernel=np.ones((11,11),np.float32)/169
 image3=cv2.filter2D(image2,-1,kernel)
@@ -153,19 +153,19 @@ plt.show()
 ### 1. Smoothing Filters
 i) Using Averaging Filter
 
-![Screenshot 2024-03-08 155538](https://github.com/vinodkumar-s/Implementation-of-filter/assets/113497226/94067f2c-2d8e-4965-b54d-c0f3ded680c1)
+![Screenshot 2024-03-19 143808](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/dfc719dc-f6e4-468b-8241-8c7a52f6ba2a)
 
 ii) Using Weighted Averaging Filter
 
-![Screenshot 2024-03-08 155605](https://github.com/vinodkumar-s/Implementation-of-filter/assets/113497226/c2533034-acc6-4131-91e8-49644c82dace)
+![Screenshot 2024-03-19 143813](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/e45ed662-9fcf-46e3-b1a6-a457fa7081ff)
 
 iii) Using Gaussian Filter
 
-![Screenshot 2024-03-08 155913](https://github.com/vinodkumar-s/Implementation-of-filter/assets/113497226/10cb7930-c2e1-433d-b7e1-020631b98f17)
+![Screenshot 2024-03-19 143819](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/3d5a3140-195d-4e36-a545-468d395dd817)
 
 iv) Using Median Filter
 
-![Screenshot 2024-03-08 155936](https://github.com/vinodkumar-s/Implementation-of-filter/assets/113497226/dac8abfe-606b-4f7c-9e93-1a9ab0b0a965)
+![Screenshot 2024-03-19 143826](https://github.com/AbishekAnand15/Implementation-of-filter/assets/118706942/5c26fb2b-b070-48bc-ada9-4493cb1b85d5)
 
 
 ### 2. Sharpening Filters
